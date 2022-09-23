@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tenzi1
 - 👀 I’m interested in Web Development and Cloud Computing
-- 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on backend development
+- 🌱 I’m currently learning backend development with Python Webframeworks (Django, Flask)
+- 💞️ I’m looking to collaborate on backend development projects
 -
 
 <!---
