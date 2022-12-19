@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tenzi1
-- 👀 I’m interested in Web Development and Cloud Computing
+- 👋 Hi, I’m Tshering Sherpa
+- 👀 I’m interested in Web Development , Cloud Computing and Computer Vision.
 - 🌱 I’m currently learning backend development with Python Webframeworks (Django, Flask)
 - 💞️ I’m looking to collaborate on backend development projects
 -
