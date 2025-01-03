@@ -33,5 +33,6 @@ I'm a passionate developer with a keen interest in web development, machine lear
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/tshering-sherpa-b660ab193/)
 [![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:sherpatshering783@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome)](https://www.yourpersonalsite.com)
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
