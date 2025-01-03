@@ -2,13 +2,12 @@
 
 ![Profile views](https://gpvc.arturio.dev/tenzi1)
 
-I'm a passionate developer with a keen interest in web development, machine learning, computer vision and  embedded system. I love to learn new technologies and work on exciting projects.
+I'm a passionate developer with a keen interest in web development, machine learning, computer vision and embedded system. I love to learn new technologies and work on exciting projects.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning embedded developement and AI.
+- 🌱 I’m currently learning embedded development and AI.
 - 📫 How to reach me: sherpatshering783@gmail.com
-
 
 ## 🛠️ Technologies & Tools
 
@@ -24,16 +23,15 @@ I'm a passionate developer with a keen interest in web development, machine lear
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ## 📈 GitHub Stats
 
-![Tenzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenzi1&show_icons=true&theme=dark)
+![Tenzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenzi1&show_icons=true&theme=indigo)
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/tshering-sherpa-b660ab193/)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/yourtwitterhandle)
 [![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:sherpatshering783@gmail.com)
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
-
