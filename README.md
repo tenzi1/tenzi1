@@ -29,10 +29,7 @@ I'm a passionate developer with a keen interest in web development, machine lear
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 
-## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenzi1&layout=compact&theme=radical)
-![Tenzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenzi1&show_icons=true&theme=radical&hide=c++)
 
 ## 📫 Connect with Me
 
